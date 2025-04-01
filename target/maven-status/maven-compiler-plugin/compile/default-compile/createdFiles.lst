@@ -1,0 +1,7 @@
+br/com/springboot/products/model/Product.class
+br/com/springboot/products/dto/ProductResponseDTO.class
+br/com/springboot/OrdersApiApplication.class
+br/com/springboot/products/repository/ProductRepository.class
+br/com/springboot/products/service/ProductService.class
+br/com/springboot/products/controller/ProductController.class
+br/com/springboot/products/dto/ProductRequestDTO.class

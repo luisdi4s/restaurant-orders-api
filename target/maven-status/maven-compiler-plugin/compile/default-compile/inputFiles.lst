@@ -1,0 +1,7 @@
+/home/luis/Projetos/orders-api/src/main/java/br/com/springboot/products/service/ProductService.java
+/home/luis/Projetos/orders-api/src/main/java/br/com/springboot/products/model/Product.java
+/home/luis/Projetos/orders-api/src/main/java/br/com/springboot/products/controller/ProductController.java
+/home/luis/Projetos/orders-api/src/main/java/br/com/springboot/products/dto/ProductResponseDTO.java
+/home/luis/Projetos/orders-api/src/main/java/br/com/springboot/products/repository/ProductRepository.java
+/home/luis/Projetos/orders-api/src/main/java/br/com/springboot/OrdersApiApplication.java
+/home/luis/Projetos/orders-api/src/main/java/br/com/springboot/products/dto/ProductRequestDTO.java
