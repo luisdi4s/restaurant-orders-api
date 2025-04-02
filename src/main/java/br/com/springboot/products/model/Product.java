@@ -23,7 +23,7 @@ public class Product {
 
     @Enumerated(EnumType.STRING)
     @Column(nullable = true)
-    private ProductCategory mainCategory;
+    private ProductCategory category;
 
     @Enumerated(EnumType.STRING)
     @Column(nullable = true)

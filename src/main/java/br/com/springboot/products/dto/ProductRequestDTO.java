@@ -26,7 +26,7 @@ public class ProductRequestDTO {
     private String description;
 
     @Nullable
-    private ProductCategory mainCategory;
+    private ProductCategory category;
 
     @Nullable
     private ProductSubCategory subCategory;

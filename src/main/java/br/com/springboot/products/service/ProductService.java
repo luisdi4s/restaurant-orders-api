@@ -20,8 +20,8 @@ public class ProductService {
         product.setPrice(request.getPrice());
         product.setStock(request.getStock());
 
-        if (request.getMainCategory() != null) {
-            product.setMainCategory(request.getMainCategory());
+        if (request.getCategory() != null) {
+            product.setCategory(request.getCategory());
         }
         if (request.getSubCategory() != null) {
             product.setSubCategory(request.getSubCategory());
@@ -43,7 +43,7 @@ public class ProductService {
                 product.getName(),
                 product.getPrice(),
                 product.getStock(),
-                product.getMainCategory(),
+                product.getCategory(),
                 product.getSubCategory()
         );
     }
